@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SeltikeS
-- 👀 I’m interested in work Junior Frontend Developer 
-- 🌱 I’m currently learning JS
+- 👀 I’m Frontend Developer
 - 📫 How to reach me 
 
 pschenka@gmail.com <br>
